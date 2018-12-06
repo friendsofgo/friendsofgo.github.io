@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Friends of GO</title>
+    <link>/</link>
+    <description>Recent content on Friends of GO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contributors</title>
+      <link>/contributors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contributors/</guid>
+      <description>Adrián Pérez
+      Joan López
+     Carles Calsina
+     </description>
+    </item>
+    
+    <item>
+      <title>Libraries</title>
+      <link>/libraries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/libraries/</guid>
+      <description> GraphiQL   An adapter on GO to serve the GraphiQL in-browser IDE.   Graphql Api  WIP
+ Example for structure api projects on Graphql in #Golang   Filter  WIP
+ Package filter standardize the way to filter on RESTful/JSON API on Golang.    </description>
+    </item>
+    
+  </channel>
+</rss>

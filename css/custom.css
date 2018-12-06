@@ -1,0 +1,82 @@
+#top #top-brand {
+    width: 12%;
+    padding: 15px 0 0 0;
+}
+
+#top {
+    margin-bottom: 0px;
+    height:60px;
+}
+
+#hero .hero-img{
+    width: 25%;
+}
+@media (max-width:768px) {
+    #hero .hero-img{
+        width: 50%;
+    }
+}
+
+#footer {
+    margin: 45px 0;
+}
+
+#action-buttons {
+    margin-bottom:5px;
+}
+
+#contributors .img {
+    border-radius: 50%;
+    width: 150px;
+}
+
+#contributors ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: -webkit-inline-flex;
+    display: inline-flex;
+    justify-content: center;
+}
+
+#contributors ul li {
+    margin-right:10px;
+}
+
+#libraries {
+    text-align: center;
+}
+#libraries .item {
+    background: #f8f8f8;
+    padding: 68px 24px 60px 24px;
+    margin-bottom: 20px;
+}
+
+#libraries h4 {
+    font-size: 19px;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+
+#libraries h4 a {
+    color: #3794de;
+    text-decoration: none;
+}
+#libraries h4 a:hover {
+    -moz-transition: all linear 0.2s;
+    transition: all linear 0.2s;
+    color: #000;
+    text-decoration: underline; }
+
+#libraries p {
+    max-width: 220px;
+    margin: auto;
+    font-size: 13px;
+    line-height: 20px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+#posts {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
