@@ -5,6 +5,13 @@
 
 #top {
     margin-bottom: 0px;
+    height:65px;
+}
+@media (max-width:768px) {
+    #top {
+        margin-bottom: 0px;
+        height:auto;
+    }
 }
 
 #hero .hero-img{
